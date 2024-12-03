@@ -1,5 +1,3 @@
-# News-App-MAD
-
 # News App 📰 MAD_ Assignment Part B_ News App 
 
 A Flutter-based mobile application that delivers real-time news updates from around the globe. Users can search for news articles, explore categories, save their favorite stories, and get updates tailored to their interests.
